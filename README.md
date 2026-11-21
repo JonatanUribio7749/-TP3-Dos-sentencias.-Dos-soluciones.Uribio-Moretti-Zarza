@@ -37,7 +37,7 @@ Abrir http://localhost:8080. En Windows también puede usarse `py -m http.server
 
 ## Enlaces de entrega
 - Repositorio GitHub del grupo: https://github.com/JonatanUribio7749/-TP3-Dos-sentencias.-Dos-soluciones.Uribio-Moretti-Zarza
-- Landing pública Vercel: .
+- Landing pública Vercel: https://dossentencia-dossoluciones.vercel.app
 
 ## Construcción agéntica
 Aplicación: ChatGPT Work / Codex. Modelo visible para el agente: GPT-6.1; el integrante debe registrar el nombre que efectivamente vea en su aplicación, o «modelo no informado» si no se muestra. No se infiere el modelo a partir del nombre de la aplicación.
